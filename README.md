@@ -38,8 +38,6 @@ Na trilha de **Java**, conduzida pelo professor **Isidro**, desenvolvi uma aplic
 
 ## 📂 Estrutura do Projeto
 
-NLW-Connect-Java
-
 │── src/main/java/br/com/nlw/events
 
 │   ├── controller   ----  # Controllers da API
