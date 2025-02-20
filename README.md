@@ -1,4 +1,4 @@
-# 🚀 NLW Connect - Trilha Java
+# 🚀 NLW Connect - Java
 
 Este repositório contém os aprendizados e a aplicação desenvolvida durante o evento **NLW Connect**, promovido pela **Rocketseat**.
 
@@ -8,7 +8,7 @@ O **Next Level Week (NLW)** é uma imersão intensiva de uma semana, repleta de 
 
 ## 🖥️ Trilha Java com Spring Boot
 
-Na trilha de **Java**, conduzida pelo professor **Isidro**, desenvolvemos uma aplicação completa para **inscrição em eventos**, explorando conceitos fundamentais do **ecossistema Java e Spring Boot**.
+Na trilha de **Java**, conduzida pelo professor **Isidro**, desenvolvi uma aplicação completa para **inscrição em eventos**, explorando conceitos fundamentais do **ecossistema Java e Spring Boot**.
 
 ## 🔧 Tecnologias Utilizadas
 
@@ -30,9 +30,20 @@ Na trilha de **Java**, conduzida pelo professor **Isidro**, desenvolvemos uma ap
     - Número de inscritos.
     - Inscrições por indicação.
     - Ranking de usuários.
-      
-**Foi uma experiência incrível, que me permitiu aprofundar meus conhecimentos e evoluir como desenvolvedor! 🚀**
 
 
+## 📂 Estrutura do Projeto
+
+NLW-Connect-Java
+│── src/main/java/br/com/nlw/events
+│   ├── controller        # Controllers da API
+│   ├── dto               # Data Transfer Objects (DTOs)
+│   ├── exception         # Classes para tratamento de exceções
+│   ├── model             # Entidades do banco de dados
+│   ├── repository        # Repositórios (Spring Data JPA)
+│   ├── service           # Regras de negócio
+│── src/main/resources
+│   ├── application.properties  # Configuração do banco de dados
+└──  pom.xml               # Gerenciamento de dependências (Maven)
 
 ![sistemaJava](./nlw-capa.png)
