@@ -59,4 +59,4 @@ NLW-Connect-Java
 
 └──  pom.xml        ---         # Gerenciamento de dependências (Maven)
 
-![sistemaJava](./nlw-capa.png)
+
