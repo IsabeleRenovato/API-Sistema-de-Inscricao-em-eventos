@@ -4,7 +4,7 @@ Este repositório contém os aprendizados e a aplicação desenvolvida durante o
 
 ## 📌 Sobre o NLW
 
-O **Next Level Week (NLW)** é uma experiência imersiva de uma semana, repleta de **código, desafios e networking**, proporcionando uma oportunidade única para aprendizado prático e evolução na carreira de desenvolvimento.
+O **Next Level Week (NLW)** é uma imersão intensiva de uma semana, repleta de código, desafios e networking, proporcionando uma experiência prática e enriquecedora.
 
 ## 🖥️ Trilha Java com Spring Boot
 
@@ -31,6 +31,8 @@ Na trilha de **Java**, conduzida pelo professor **Isidro**, desenvolvemos uma ap
     - Inscrições por indicação.
     - Ranking de usuários.
       
-## Foi uma experiência incrível, que me permitiu aprofundar meus conhecimentos e evoluir como desenvolvedor! 🚀
+**Foi uma experiência incrível, que me permitiu aprofundar meus conhecimentos e evoluir como desenvolvedor! 🚀**
+
+
 
 ![sistemaJava](./nlw-capa.png)
