@@ -15,7 +15,11 @@ Na trilha de **Java**, conduzida pelo professor **Isidro**, desenvolvi uma aplic
 - **Java**
 - **Spring Boot**
 - **Spring Initializr**
-- **MySQL**
+- **Spring Data JPA**
+- **Maven**
+- **MySQL Workbench**
+- **Docker (para rodar o banco de dados)**
+- **Postman (para testes das APIs)**
 
 ## 📚 O que foi desenvolvido?
 
