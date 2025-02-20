@@ -41,23 +41,14 @@ Na trilha de **Java**, conduzida pelo professor **Isidro**, desenvolvi uma aplic
 NLW-Connect-Java
 
 │── src/main/java/br/com/nlw/events
-
-│   ├── controller        # Controllers da API
-
-│   ├── dto               # Data Transfer Objects (DTOs)
-
-│   ├── exception         # Classes para tratamento de exceções
-
-│   ├── model             # Entidades do banco de dados
-
-│   ├── repository        # Repositórios (Spring Data JPA)
-
-│   ├── service           # Regras de negócio
-
+│   ├── controller           # Controllers da API
+│   ├── dto                  # Data Transfer Objects (DTOs)
+│   ├── exception            # Classes para tratamento de exceções
+│   ├── model                # Entidades do banco de dados
+│   ├── repository           # Repositórios (Spring Data JPA)
+│   ├── service              # Regras de negócio
 │── src/main/resources
-
-│   ├── application.properties  # Configuração do banco de dados
-
-└──  pom.xml               # Gerenciamento de dependências (Maven)
+│   ├── application.properties   # Configuração do banco de dados
+└──  pom.xml                 # Gerenciamento de dependências (Maven)
 
 ![sistemaJava](./nlw-capa.png)
