@@ -42,21 +42,21 @@ NLW-Connect-Java
 
 │── src/main/java/br/com/nlw/events
 
-│   ├── controller           # Controllers da API
+│   ├── controller   ----  # Controllers da API
 
-│   ├── dto                  # Data Transfer Objects (DTOs)
+│   ├── dto   ----   # Data Transfer Objects (DTOs)
 
-│   ├── exception            # Classes para tratamento de exceções
+│   ├── exception     ---       # Classes para tratamento de exceções
 
-│   ├── model                # Entidades do banco de dados
+│   ├── model      ---          # Entidades do banco de dados
 
-│   ├── repository           # Repositórios (Spring Data JPA)
+│   ├── repository     ---      # Repositórios (Spring Data JPA)
 
-│   ├── service              # Regras de negócio
+│   ├── service       ---       # Regras de negócio
 
 │── src/main/resources
-│   ├── application.properties   # Configuração do banco de dados
+│   ├── application.properties  --- # Configuração do banco de dados
 
-└──  pom.xml                 # Gerenciamento de dependências (Maven)
+└──  pom.xml        ---         # Gerenciamento de dependências (Maven)
 
 ![sistemaJava](./nlw-capa.png)
